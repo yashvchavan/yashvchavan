@@ -77,6 +77,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashchavan-dev&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchavan-dev&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashvchavan&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvchavan&layout=compact&theme=radical" alt="Top languages" />
 </p>
