@@ -19,7 +19,7 @@
 ## 💬 Languages
 - **JavaScript / TypeScript**
 - **Python / Java / C / C++**
-- **SQL / PHP**
+- **SQL**
 
 ---
 
