@@ -13,7 +13,6 @@
 - 🏆 Runner-up at Smart India Hackathon 2024 and Innovera 2025 Hackathon
 - 🧠 GATE 2025 Qualified in CS
 - 📢 CSI Social Media Head & E-Yantran 2024 Lead
-- 🏀 Captain, Computer Dept. Basketball Team
 
 ---
 
